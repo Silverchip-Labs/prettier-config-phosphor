@@ -1,0 +1,17 @@
+{
+  "name": "@silverchip-labs/prettier-config-phosphor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./prettier-config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
