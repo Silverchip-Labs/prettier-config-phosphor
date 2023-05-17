@@ -9,7 +9,7 @@ To start using Prettier Config Phosphor, follow these simple steps:
 1. Install the package as a development dependency in your project:
 
 ```bash
-npm install --save-dev prettier-config-phosphor
+npm install --save-dev @silverchip-labs/prettier-config-phosphor
 ```
 
 2. Create a .prettierrc file in the root of your project or update your existing .prettierrc file.
