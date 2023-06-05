@@ -1,6 +1,6 @@
 {
   "name": "@silverchip-labs/prettier-config-phosphor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./prettier-config.json",
   "scripts": {
